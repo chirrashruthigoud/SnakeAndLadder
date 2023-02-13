@@ -4,8 +4,7 @@
         {
     public static void Main(String[] args)
     {
-          
-         Snakeandladders.CheckSnakeandladders();
+            RollDice.RollDiceplayer();
 
         }
     }
