@@ -4,7 +4,7 @@
         {
     public static void Main(String[] args)
     {
-            RollDice.RollDiceplayer();
+            PlayerPosition.Gameplayer();
 
         }
     }
