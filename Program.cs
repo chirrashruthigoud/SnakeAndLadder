@@ -4,7 +4,7 @@
         {
     public static void Main(String[] args)
     {
-            PlayerGame.GameplayerPosition();
+            PlayerWinning.PlayerWinningPosition();
 
         }
     }
