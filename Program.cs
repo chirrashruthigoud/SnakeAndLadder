@@ -4,7 +4,7 @@
         {
     public static void Main(String[] args)
     {
-            DisplayDice.Displayplayer();
+            TwoPlayers.SnakeladderGame();
 
         }
     }
